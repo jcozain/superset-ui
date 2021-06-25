@@ -7,6 +7,7 @@ import china from 'file-loader!./countries/china.geojson';
 import egypt from 'file-loader!./countries/egypt.geojson';
 import france from 'file-loader!./countries/france.geojson';
 import germany from 'file-loader!./countries/germany.geojson';
+import guanajuato from 'file-loader!./countries/guanajuato.geojson';
 import india from 'file-loader!./countries/india.geojson';
 import indonesia from 'file-loader!./countries/indonesia.geojson';
 import iran from 'file-loader!./countries/iran.geojson';
@@ -14,6 +15,7 @@ import italy from 'file-loader!./countries/italy.geojson';
 import japan from 'file-loader!./countries/japan.geojson';
 import korea from 'file-loader!./countries/korea.geojson';
 import liechtenstein from 'file-loader!./countries/liechtenstein.geojson';
+import mexico from 'file-loader!./countries/mexico.geojson';
 import morocco from 'file-loader!./countries/morocco.geojson';
 import myanmar from 'file-loader!./countries/myanmar.geojson';
 import netherlands from 'file-loader!./countries/netherlands.geojson';
@@ -41,6 +43,7 @@ export const countries = {
   egypt,
   france,
   germany,
+  guanajuato,
   india,
   indonesia,
   iran,
@@ -48,6 +51,7 @@ export const countries = {
   japan,
   korea,
   liechtenstein,
+  mexico,
   morocco,
   myanmar,
   netherlands,
